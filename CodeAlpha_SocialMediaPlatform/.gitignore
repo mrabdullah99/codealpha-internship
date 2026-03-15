@@ -1,0 +1,15 @@
+# Node / JavaScript
+node_modules/
+dist/
+build/
+
+# Environment variables
+frontend/.env
+backend/.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
